@@ -28,6 +28,7 @@ Once authenticated, Service Department link appears in the navigation menu. Serv
 - View up to 6 visits in queue (1 active + 5 waiting)
 - Accept or Cancel next customer in line. Only 1 visit can be "active" (accepted).
 - Complete or Cancel current visit. Only active (accepted) visit can be completed.
+
 Either specialist action immediately updates the screen.
 
 
