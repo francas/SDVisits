@@ -1,6 +1,6 @@
 # Service Department Visits
 
-This is a demo Vaadin application created with Spring Boot. It is a queue management system allowing customers to reserve time in queue and specialists to accept/complete/cancel visits. Application is currently hosted on AWS.
+This is a demo Vaadin application created with Spring Boot. It is a queue management system allowing customers to reserve time in queue and specialists to accept/complete/cancel visits.
 
 ## Functionality
 2 roles are supported:
