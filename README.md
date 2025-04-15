@@ -37,5 +37,5 @@ The project is a standard Maven project, so you can import it to your IDE of cho
 
 There are two ways to run the application. Before starting it, make sure to have mysql server running and update connection properties in `src/main/resources/application.properties` file.
  - To run from the command line, use `mvn` and open [http://localhost:8080](http://localhost:8080) in your browser.
- - Another way is to to run the `Application` class directly from your IDE.
+ - Another way is to run the `Application` class directly from your IDE.
  
